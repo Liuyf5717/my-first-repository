@@ -6,6 +6,6 @@ import java.util.List;
 
 public class OtherTest {
     public static void main(String[] args) {
-        System.out.println(this.getClass());
+//        System.out.println(this.getClass());
     }
 }
