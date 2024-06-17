@@ -1,7 +1,9 @@
+# 忽略.idea目录
+.idea/
 # Compiled class file
 *.class
-
-# Log file
+*.iml
+out/
 *.log
 
 # BlueJ files
